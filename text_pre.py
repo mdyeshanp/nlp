@@ -25,9 +25,6 @@ def textPrepare(text):
     return text
 
 
-#res = textPrepare("what is Hire me")
-
-
 
 
     
