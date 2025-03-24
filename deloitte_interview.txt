@@ -1,0 +1,104 @@
+2 rounds of technical and 1 managerial round followed by HR interview. Explain the best project from your experience and project the best of you will get better chances to be selected.
+
+Interview questions [1]
+
+Question 1
+
+Explain the challenges I faced and method utilized to address.
+
+I got a call from recruiter for data science role Bengaluru location.Practice hard sql and python pandas questions along with oops concept. Projects in STAR method needs to be explained
+
+Interview questions [1]
+
+Question 1
+
+Mean median mode in python
+
+What are the differences between convolutional neural networks (CNNs) and recurrent neural networks (RNNs)? 
+What are the differences between overfitting and underfitting? How would you handle overfitting them?
+
+Answer question
+Question 2
+
+How would you approach segmentation using unsupervised learning techniques?
+Can you describe the differences between k-means clustering and hierarchical clustering, and when to use each?
+
+Questions on LLM, projects in resume
+
+The first round was technical taken by a senior Data Scientist asking about the projects and mathematics behind the algorithms. Also asked about some other ML algorithms being widely used in market giving different scenarios and their concepts and basic understandings that can be drawn from results.
+
+Interview questions [1]
+
+Question 1
+
+Questions were regarding the algorithms and libraries used in your projects.
+
+They also asked basic ML questions such as regression, difference between classification and logistic regression, and similar topics. They built their questions based on my answers.
+
+First Round was HR call asking about experience second was technical round, it was easy to medium questions in basic ml and dl questions related to resume, overall good experience
+
+Interview questions [1]
+
+Question 1
+
+1.What is Random Forest 2.What is bias variance
+
+the interview was difficult. they asked me regarding my machine learning skills and data science skills. They also jumped to asked few questions about sql and dbms. Then they asked me few puzzles(3). Then they gave me a case study, where they gave me a data set and want me to do EDA
+
+Interview questions [1]
+
+Question 1
+
+What is the difference between transfer learning and fine tuning?
+
+I had first round only where I was rejected. First round was technical round, where I was asked Python questions on tuple, list, mutable and immutable objects. For lateral hiring, I was expecting questions on solutioning and business side but was asked questions on how to make a tuple. The round lasted hardly 15 minutes.
+
+Interview questions [1]
+
+Question 1
+
+What is the difference between mutable and immutable objects? What is difference between tuple and list? Your favourite ML algorithm, question on it..very basic questions
+
+Firstly HR screening through phone. Afterwards, a technical assessment (churn prediction) that you have few hours to complete. Lastly, one technical interview and 2 interviews with directors. All interviews were divided in technical/analytical and a business case or similar. For the last two particularly.
+
+Interview questions [1]
+
+Question 1
+
+linear regression, boosting vs bagging... simple statistics overall, nothing too fancy
+nterview process was good, well managed, discussed mostly on projects from resume. Has question from machine learning, python and SQL. Had 2 rounds, 1 technical and another one managerial. Technical round involved question on previous project and technical details regarding them.
+
+Interview questions [1]
+
+Question 1
+
+What is the difference between the precision and recall?
+
+Interview was average mostly basics and the previous projects and details about the projects and some basic Data science and computer vision questions and few questions related to statistics and loss functions for regression and classifications.
+
+Interview questions [1]
+
+Question 1
+
+Explain the CNN in detail?
+
+There were 4 rounds of interview. The first one was all technical where they asked questions about git, ML, python and Devops. Then with the Team lead which is an extension of the previous technical round. Then with the manager where they understand you and your working type. Then the senior manager checks your communication skills and approach to a problem.
+
+Interview questions [1]
+
+Question 1
+
+How do you merge a code to git? What is the difference between correlation and
+
+What is Principal component analysis?
+
+Views on frequentist vs bayesian approach to probability
+Video Screening - 1 hr technical interview - questions were based on statistics and ML - properly organized questions and very good experience - Questions on statistics were basic level like different distributions and intuition behind it.
+
+Interview questions [1]
+
+Question 1
+
+- What is embedding? - what is normal distribution? - what is Poison distribution?
+
+In the technical interview, I was asked about the types of modeling I was comfortable with, and they asked for an example of how I had used it in the past.
